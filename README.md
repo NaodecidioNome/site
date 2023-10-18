@@ -3,7 +3,7 @@
 <html lang="pt-br">
     <head>
         <meta charset="UTF = 8">
-        <img src="https://i.ibb.co/F7XNgwB/banner.jpg">
+        <img src="https://i.ibb.co/F7XNgwB/banner.jpg" style="left: 200px; top: 10px; position: absolute" width="800" height="300">
         <title> Barbearia Alura</title>
         <link rel="stylesheet" href="style.css"
         <style>
