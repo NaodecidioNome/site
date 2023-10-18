@@ -3,6 +3,7 @@
 <html lang="pt-br">
     <head>
         <meta charset="UTF = 8">
+        <img src="https://i.ibb.co/F7XNgwB/banner.jpg">
         <title> Barbearia Alura</title>
         <link rel="stylesheet" href="style.css"
         <style>
@@ -14,6 +15,7 @@
        <body>  
         
         <h1 style="text-align: center">Sobre a Barbearia Alura</h1>
+
 <p style="text-align: center">Localizada no coração da cidade a <strong>Barbearia Alura</strong> traz para o mercado o que há de melhor para o seu cabelo e barba. Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia.</p>
 
 <p style="font-size: 20px"><em>Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes".</strong></em></p>
